@@ -1,6 +1,6 @@
 # LX-FE-practice-abogabot
 
-![](https://img.shields.io/badge/TheOdinProject-yellow)
+![](https://img.shields.io/badge/LaunchX-blueviolet)
 
 # Project Name
 
